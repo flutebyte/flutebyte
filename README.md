@@ -60,6 +60,14 @@
 
 ---
 
+## ⚡️ Mischief Meter
+
+🎯 Times I solved the bug without knowing how:         ██████████ 100%  
+🪞 Moments I looked confident while deeply confused:   █████████░░ 95%  
+🎭 Lines of code written just to look busy:            ███████░░░ 70%
+
+---
+
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavanya_Garg-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lavanya-garg-89ab842bb)
