@@ -41,7 +41,6 @@
 > **DeCodeIt** is a retro-themed full-stack mini-game that challenges users with quirky coding puzzles across JS, Python, C, C++, and Java.  
 > 🚀 Built with Django and localStorage, it gamifies logic and language quirks in a fun, customizable experience!  
 >  
-> 🤓 Crack the code, challenge your brain, and enjoy some pixel-perfect nostalgia while you master programming concepts.
 
 ---
 
