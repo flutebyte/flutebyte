@@ -73,7 +73,8 @@
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=flutebyte&theme=algolia&no-frame=true&row=1&column=7)
+### 🏆 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=flutebyte&theme=dark)
 
 ---
 
