@@ -73,7 +73,7 @@
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=flutebyte&theme=algolia&no-frame=true&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=flutebyte&theme=algolia&no-frame=true&row=1&column=7)
 
 ---
 
