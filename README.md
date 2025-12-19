@@ -73,8 +73,14 @@
 
 ---
 
-### 🏆 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=flutebyte&theme=dark)
+## 🔮 If You’re Reading This
+
+You’re either:
+- a recruiter 👀
+- a fellow dev 🤝
+- or me, checking if this still looks cool
+
+Either way, hi. This repo builds things that work.
 
 ---
 
