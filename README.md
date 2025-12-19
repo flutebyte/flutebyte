@@ -73,7 +73,7 @@
 
 ---
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=flutebyte&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=flutebyte&theme=algolia&no-frame=true&margin-w=15)
 
 ---
 
