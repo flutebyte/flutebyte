@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Lavanya Garg
 
-🎓 CS Student | 🛠️ Backend Adventurer 
+CS student who learns by building, not by watching tutorials.
 
 ---
 
@@ -50,12 +50,44 @@
 
 ---
 
-## 🌱 Currently Growing (and Debugging)
-
-- DSA: Deep Dive into Data Structures & Algorithms
-- Building APIs that behave (most days)
-- Mastering “why isn’t this working?” as a daily mantra
-
+---
+ 
+## 🛠️ tech stack
+ 
+| Backend | Frontend | Databases | Tools |
+|---|---|---|---|
+| Node.js · Express | React.js | PostgreSQL · MongoDB | Git · Postman |
+| FastAPI · Django | HTML · CSS | MySQL · Prisma | Playwright · JWT |
+ 
+---
+ 
+## 🚀 things i've shipped
+ 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏪 MerchIQ</h3>
+      <p>Inventory SaaS · 13 API routes · JWT auth · CSV import wizard</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 Flowra</h3>
+      <p>AI browser automation · DOM-aware · multi-step workflows</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>🗺️ <a href="https://devmap-1.onrender.com">DevMap ↗</a></h3>
+      <p>Developer roadmap platform · live & deployed · REST APIs</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 Stats & Stuff
