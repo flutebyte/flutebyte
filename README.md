@@ -39,18 +39,6 @@ CS student who learns by building, not by watching tutorials.
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
 
 ---
-
-## 🌟 Latest Project
-
-> ### [DeCodeIt](https://github.com/flutebyte/DeCodeIt)
->
-> **DeCodeIt** is a retro-themed full-stack mini-game that challenges users with quirky coding puzzles across JS, Python, C, C++, and Java.  
-> 🚀 Built with Django and localStorage, it gamifies logic and language quirks in a fun, customizable experience!  
->  
-
----
-
----
  
 ## 🛠️ tech stack
  
