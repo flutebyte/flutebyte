@@ -40,15 +40,6 @@ CS student who learns by building, not by watching tutorials.
 
 ---
  
-## 🛠️ tech stack
- 
-| Backend | Frontend | Databases | Tools |
-|---|---|---|---|
-| Node.js · Express | React.js | PostgreSQL · MongoDB | Git · Postman |
-| FastAPI · Django | HTML · CSS | MySQL · Prisma | Playwright · JWT |
- 
----
- 
 ## 🚀 things i've shipped
  
 <table>
