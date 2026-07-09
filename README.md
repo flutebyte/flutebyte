@@ -152,7 +152,12 @@ Developer roadmap platform.
 
 Building software that replaces manual work with systems.
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<div align="center">
+
+> *"No code is faster than no code."*  
+> — **Kevlin Henney**
+
+</div>
 
 </div>
 
