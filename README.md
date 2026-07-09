@@ -1,107 +1,159 @@
-# 👋 Hey there, I'm Lavanya Garg
+<div align="center">
 
-CS student who learns by building, not by watching tutorials.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1f1235,100:7c5cff&text=Lavanya%20Garg&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Engineer%20•%20Building%20SaaS%20Products%20and%20Automation%20Systems&descAlignY=55"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=9D7CFF&center=true&vCenter=true&width=800&lines=Building+Products+People+Actually+Use;Backend+Engineering+%7C+Automation+%7C+AI;Turning+Ideas+into+Systems;Shipping+%3E+Talking" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/lavanya-garg-89ab842bb">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## About Me
+## ⚡ System Overview
 
-🧩 Currently juggling algorithms and backend sorcery, with dreams of turning code into scalable magic.  
-⚡ I run on caffeine, curiosity, and the relentless urge to fix things that aren’t broken (yet).  
-💡 If it involves systems, servers, or making things *work*, count me in!
+<pre>
+🔴 🟡 🟢  lavanya@github ~
+</pre>
+
+```yaml
+name: Lavanya Garg
+
+mode:
+    - builder
+
+currently_building:
+  - MerchIQ
+  - Flowra
+
+interests:
+  - APIs
+  - Automation
+  - System Design
+  - AI Applications
+
+status: shipping 🚀
+motto: "Build it. Break it. Improve it."
+``` 
+<p>
+<img src="https://img.shields.io/badge/-%20-1a1a2e?style=flat-square" />
+<img src="https://img.shields.io/badge/-%20-16213e?style=flat-square" />
+<img src="https://img.shields.io/badge/-%20-0f3460?style=flat-square" />
+<img src="https://img.shields.io/badge/-%20-6a5acd?style=flat-square" />
+</p>
+ 
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%">
+
+### 🏪 MerchIQ
+
+Inventory OS for apparel businesses.
+
+🔗 Live Demo: https://merch-iq-app.onrender.com
+
+✨ Photo-first inventory
+
+✨ Analytics dashboard
+
+✨ JWT authentication
+
+✨ CSV onboarding
+
+`React` `Node.js` `PostgreSQL`
+
+</td>
+
+<td width="33%">
+
+### 🤖 Flowra
+
+AI browser automation.
+
+✨ DOM-aware workflows
+
+✨ Multi-step execution
+
+✨ FastAPI backend
+
+✨ Playwright automation
+
+`Python` `FastAPI` `Playwright`
+
+</td>
+
+<td width="33%">
+
+### 🗺️ DevMap
+
+Developer roadmap platform.
+
+🔗 **Live:** https://devmap-1.onrender.com
+
+✨ Dynamic learning paths
+
+✨ REST APIs
+
+✨ Live deployment
+
+✨ MongoDB backend
+
+`React` `Node.js` `MongoDB`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+<div align="center">
 
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,django,postgres,mongodb,mysql,react,js,cpp,git,github,postman,prisma,docker&theme=dark"/>
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
-
----
- 
-## 🚀 things i've shipped
- 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🏪 MerchIQ</h3>
-      <p>Inventory SaaS · 13 API routes · JWT auth · CSV import wizard</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>🤖 Flowra</h3>
-      <p>AI browser automation · DOM-aware · multi-step workflows</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>🗺️ <a href="https://devmap-1.onrender.com">DevMap ↗</a></h3>
-      <p>Developer roadmap platform · live & deployed · REST APIs</p>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-    </td>
-  </tr>
-</table>
----
-
-## 📊 Stats & Stuff
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flutebyte&show_icons=true&theme=dark)](https://github.com/flutebyte)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flutebyte&layout=compact&theme=dark)](https://github.com/flutebyte)
+</div>
 
 ---
 
-## ⚡️ Mischief Meter
+## 📊 GitHub Analytics
 
-🎯 Times I solved the bug without knowing how:         ██████████ 100%  
-🪞 Moments I looked confident while deeply confused:   █████████░░ 95%  
-🎭 Lines of code written just to look busy:            ███████░░░ 70%
+<div align="center">
 
----
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=flutebyte&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=flutebyte&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 📬 Let's Connect
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lavanya_Garg-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lavanya-garg-89ab842bb)
+<br>
 
----
-
-## 🔮 If You’re Reading This
-
-You’re either:
-- a recruiter 👀
-- a fellow dev 🤝
-- or me, checking if this still looks cool
-
-Either way, hi. This repo builds things that work.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=flutebyte&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-<p align="center">
-  <i>"Turning caffeine into code, and silence into systems.<br>
-  If you spot a bug, it’s probably a feature."</i>
-</p>
+<div align="center">
+
+### 🌌 Current Mission
+
+Building software that replaces manual work with systems.
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=30,24,20,12"/>
