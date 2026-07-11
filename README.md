@@ -1,16 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1f1235,100:7c5cff&text=Lavanya%20Garg&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Backend%20Engineer%20•%20Building%20SaaS%20Products%20and%20Automation%20Systems&descAlignY=55"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=9D7CFF&center=true&vCenter=true&width=800&lines=Building+Products+People+Actually+Use;Backend+Engineering+%7C+Automation+%7C+AI;Turning+Ideas+into+Systems;Shipping+%3E+Talking" />
-
-<br>
+```
+╭─────────────────────────────────────────────────────────╮
+│  ●  ●  ●                          lavanya@github ── zsh   │
+├─────────────────────────────────────────────────────────┤
+│                                                           │
+│   $ whoami                                                │
+│   → Lavanya Garg · Backend Engineer                       │
+│                                                           │
+│   $ cat focus.txt                                         │
+│   → Building SaaS products & automation systems           │
+│                                                           │
+│   $ status --now                                          │
+│   → shipping 🚀   ·   build it → break it → improve it     │
+│                                                           │
+╰─────────────────────────────────────────────────────────╯
+```
 
 <a href="https://www.linkedin.com/in/lavanya-garg-89ab842bb">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:yourmail@email.com">
+<a href="mailto:lavanyagarg500@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -25,8 +35,6 @@
 </pre>
 
 ```yaml
-name: Lavanya Garg
-
 mode:
     - builder
 
@@ -40,16 +48,9 @@ interests:
   - System Design
   - AI Applications
 
-status: shipping 🚀
+status: shipping...
 motto: "Build it. Break it. Improve it."
-``` 
-<p>
-<img src="https://img.shields.io/badge/-%20-1a1a2e?style=flat-square" />
-<img src="https://img.shields.io/badge/-%20-16213e?style=flat-square" />
-<img src="https://img.shields.io/badge/-%20-0f3460?style=flat-square" />
-<img src="https://img.shields.io/badge/-%20-6a5acd?style=flat-square" />
-</p>
- 
+```
 
 ---
 
@@ -146,19 +147,18 @@ Developer roadmap platform.
 
 ---
 
-<div align="center">
+## 🌌 Current Mission
 
-### 🌌 Current Mission
-
-Building software that replaces manual work with systems.
-
-<div align="center">
-
-> *"No code is faster than no code."*  
+> Building software that replaces manual work with systems.
+>
+>  [!TIP]
+> ### “No code is faster than no code.”
 > — **Kevlin Henney**
 
-</div>
+<div align="center">
+
+```
+lavanya@github ~ $ ./ship.sh  →  thanks for scrolling. now go build something.  ▮
+```
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=30,24,20,12"/>
