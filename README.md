@@ -51,10 +51,9 @@ interests:
 status: shipping...
 motto: "Build it. Break it. Improve it."
 
-portfolio:
-- https://celadon-bavarois-d4a33e.netlify.app/
 ```
-
+**portfolio:**
+- https://celadon-bavarois-d4a33e.netlify.app/
 ---
 
 ## 🚀 Featured Projects
