@@ -153,7 +153,6 @@ Developer roadmap platform.
 
 > Building software that replaces manual work with systems.
 >
->  [!TIP]
 > ### “No code is faster than no code.”
 > — **Kevlin Henney**
 
